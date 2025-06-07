@@ -27,15 +27,6 @@ A classic **Simon Says** memory game built with HTML, CSS, and JavaScript. Test 
 
 ---
 
-To run this project locally:
-
-Clone the repository
-git clone https://github.com/your-username/simon-says.git
-
-Navigate into the folder
-Open index.html in your browser to start playing!
-
-✅ No frameworks or libraries required — it's 100% vanilla JavaScript.
 
 🌟 Features
 Interactive and responsive game buttons
@@ -46,6 +37,8 @@ Level progression system
 
 Game over and reset functionality
 
+---
+
 💡 Future Improvements
 Add sound effects for button presses
 
@@ -55,11 +48,29 @@ Make it mobile-friendly
 
 Add difficulty levels or speed increases
 
+---
+
 📝 License
 This project is open-source and free to use under the MIT License.
 
+---
+
 🙌 Acknowledgements
 Inspired by the classic Simon Game from the 1970s.
+
+---
+
+To run this project locally:
+
+Clone the repository
+git clone https://github.com/your-username/simon-says.git
+
+Navigate into the folder
+Open index.html in your browser to start playing!
+
+✅ No frameworks or libraries required — it's 100% vanilla JavaScript.
+
+---
 
 📬 Contact
 For suggestions or feedback, feel free to reach out:
