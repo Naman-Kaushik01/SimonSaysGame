@@ -27,16 +27,6 @@ A classic **Simon Says** memory game built with HTML, CSS, and JavaScript. Test 
 
 ---
 
-## 📁 File Structure
-
-```plaintext
-📁 simon-says/
-├── index.html       # Main HTML structure
-├── style.css        # Styling for layout, colors, animations
-├── app.js           # Game logic and event handling
-└── README.md        # Project documentation
-
-
 To run this project locally:
 
 Clone the repository
@@ -74,6 +64,8 @@ Inspired by the classic Simon Game from the 1970s.
 📬 Contact
 For suggestions or feedback, feel free to reach out:
 
-GitHub: naman-kaushik1
+GitHub: naman-kaushik01
 
 Email: kaushiknaman68@gmail.com
+
+
