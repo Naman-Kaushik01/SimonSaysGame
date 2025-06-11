@@ -5,7 +5,7 @@ A web-based Simon Says memory game built using HTML, CSS, and JavaScript. Click 
 
 A classic **Simon Says** memory game built with HTML, CSS, and JavaScript. Test your memory skills as the game challenges you to repeat an ever-growing sequence of button flashes!
 
-![Simon Says Screenshot]() 
+![Simon Says Screenshot](screenshot.png) 
 
 ---
 
